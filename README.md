@@ -58,7 +58,7 @@ Trivy plugin
 Kubernetes CLI plugin
 Git
 
-In Jenkins:
+  In Jenkins:
 Create a new pipeline project
 Configure SCM to point to this repo
 Use the Jenkinsfile in the repo
