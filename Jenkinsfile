@@ -1,7 +1,7 @@
 pipeline {
     agent any
     environment {
-        DOCKER_IMAGE = 'yourdockerhubusername/devops-app:latest'
+        DOCKER_IMAGE = 'arpachelsea/devops-app:latest'
     }
     stages {
         stage('Build') {
