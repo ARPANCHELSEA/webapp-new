@@ -16,7 +16,8 @@ Design and implement a DevOps CI/CD pipeline to:
 
 🏗️ Architecture
 
-![Project_architecture](https://github.com/user-attachments/assets/5b789b16-1a7d-437e-9ca2-6f880c62709a)
+![Project_Architecture](https://github.com/user-attachments/assets/c74fa37a-bde3-45fb-9d25-d750f317d713)
+
 
 
 **Tools & Technologies:**
