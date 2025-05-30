@@ -43,7 +43,7 @@ Jenkins (CI/CD)
 
 
 How to Run the Project (Step-by-Step)
-1. Clone the Repository
+**1**. Clone the Repository
 git clone https://github.com/ARPANCHELSEA/webapp-new.git
 cd webapp-new
 
