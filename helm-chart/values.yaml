@@ -1,6 +1,6 @@
 replicaCount: 1
 image:
-  repository: yourdockerhubusername/devops-app
+  repository: arpanchelsea/devops-app
   tag: latest
   pullPolicy: IfNotPresent
 
