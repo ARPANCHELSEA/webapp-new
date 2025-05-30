@@ -4,7 +4,7 @@ This project demonstrates a secure, observable, and maintainable DevOps pipeline
 
 ---
 
-## 📌 Objective
+📌 Objective
 
 Design and implement a DevOps CI/CD pipeline to:
 - Build and scan container images
@@ -14,7 +14,7 @@ Design and implement a DevOps CI/CD pipeline to:
 
 ---
 
-## 🏗️ Architecture
+🏗️ Architecture
 
 ![Project_architecture](https://github.com/user-attachments/assets/5b789b16-1a7d-437e-9ca2-6f880c62709a)
 
@@ -43,7 +43,7 @@ Jenkins (CI/CD)
 
 
 How to Run the Project (Step-by-Step)
-**1**. Clone the Repository
+1. Clone the Repository
 git clone https://github.com/ARPANCHELSEA/webapp-new.git
 cd webapp-new
 
