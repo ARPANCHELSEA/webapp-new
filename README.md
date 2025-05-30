@@ -119,3 +119,14 @@ trivy image <dockerhub-username>/webapp-new:latest
 ├── helm-chart/            # Kubernetes deployment via Helm
 ├── k8s-secrets/           # Kubernetes Secrets (YAML)
 └── README.md              # Project documentation
+
+
+⚠️ Known Limitations
+1. Due to environment constraints, a full end-to-end execution of the Jenkins pipeline has not been verified.
+2. Also due to time constraints could not configure many things like Loki ( for log forwarding)
+3. Being honest,many of the EKS service was paid so could not afford to run it also.
+
+✅ Improvements
+1. Automate Jenkins setup via scripts or Docker
+2. Add log aggregation (e.g., Loki or ELK)
+3. Add Grafana dashboards on top of Prometheus.
