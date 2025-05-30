@@ -15,10 +15,7 @@ Design and implement a DevOps CI/CD pipeline to:
 ---
 
 🏗️ Architecture
-
 ![Project_Architecture](https://github.com/user-attachments/assets/c74fa37a-bde3-45fb-9d25-d750f317d713)
-
-
 
 **Tools & Technologies:**
 - **Flask** – Python web app with `/metrics` endpoints
