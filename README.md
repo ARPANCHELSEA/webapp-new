@@ -27,7 +27,6 @@ Design and implement a DevOps CI/CD pipeline to:
 
 GitHub Repo
    |
-   v
 Jenkins (CI/CD)
    |
    ├── Build Docker Image
