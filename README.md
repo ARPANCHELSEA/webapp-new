@@ -130,3 +130,6 @@ trivy image <dockerhub-username>/webapp-new:latest
 1. Automate Jenkins setup via scripts or Docker
 2. Add log aggregation (e.g., Loki or ELK)
 3. Add Grafana dashboards on top of Prometheus.
+
+![Project_architecture](https://github.com/user-attachments/assets/a7549972-0be5-4996-b424-5fe32e8b0950)
+
